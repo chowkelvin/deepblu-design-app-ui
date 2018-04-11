@@ -4,15 +4,15 @@ Colors used for Deepblu's branding and applications are picked to compliment one
 
 #### PRIMARY COLORS
 The Primary Color set contains 3 shades of blues that appear in the brand's monogram.
-![](/img/style_colors-primary.png)
+![Deepblu primary colors](/img/style_colors-primary.png)
 
 #### SECONDARY COLORS
 The Secondary Color set contains 8 colors which are harmonious with when used together and with the primary colors.
-![](/img/style_colors-secondary.png)
+![Deepblu secondary colors](/img/style_colors-secondary.png)
 
 #### GRAYSCALE COLORS
 The Greyscale Color set contains 8 shades from Black to White.
-![](/img/style_colors-grayscale.png)
+![Deepblu grayscale colors](/img/style_colors-grayscale.png)
 
 ### ICONS
 Deepblu's icons are fully designed from the ground up to compliment its visual identity.
